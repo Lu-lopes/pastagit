@@ -1,1 +1,1 @@
-# pastagit
+# pasta-git
